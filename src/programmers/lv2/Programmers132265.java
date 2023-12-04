@@ -1,4 +1,4 @@
-package lv2;
+package programmers.lv2;
 
 import java.util.HashMap;
 import java.util.HashSet;

@@ -1,4 +1,4 @@
-package lv2;
+package programmers.lv2;
 
 public class Fibonacci {
     public int solution(int n) {
