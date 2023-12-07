@@ -1,10 +1,12 @@
+import programmers.lv2.P60058;
 import programmers.lv3.P12971;
 
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
-        int[] a = {14, 6, 5, 11, 3, 9, 2, 10};
-        final int solution = new P12971().solution(a);
+
+
+        final String solution = new P60058().solution("()))((()");
         System.out.println("solution = " + solution);
     }
 }
